@@ -38,9 +38,6 @@ export async function generateMetadata(props: {
     openGraph: {
       ...baseOpenGraph,
     },
-    // other: {
-    //   'google-site-verification': 'KKr5Sgn6rrXntMUp1nDIoQR7mJQujE4BExrlgcFvGTg'
-    // }
   };
 }
 
